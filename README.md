@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Model Overview
+
+We have created a model that takes social media complaints as input and returns the corresponding label as output. You can try it out in our [Google Colab notebook](https://colab.research.google.com/drive/15WGKGIPqlf4cdfDytC5jmNtO7mTprF5i?authuser=0#scrollTo=kR3gIAX-SM2q/).
+
+You can find the backend repository for this project on [GitHub](https://github.com/Samer-Gassouma/backend-ClassQuiz).
+
 ## Getting Started
 
 First, run the development server:

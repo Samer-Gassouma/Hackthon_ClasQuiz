@@ -13,7 +13,6 @@ const mockRequests = [
 ]
 
 export default function Requests() {
-  const [requests, setRequests] = useState(mockRequests)
   const [searchTerm, setSearchTerm] = useState('')
   const [filter, setFilter] = useState({ priority: '', department: '', date: '' })
 
